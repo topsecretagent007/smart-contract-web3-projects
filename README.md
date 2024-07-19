@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/user-attachments/assets/15f77a1d-94c9-449a-b7db-ec58ba695074)![image](https://github.com/user-attachments/assets/ef16728e-e0dd-44b5-89d8-fbdcf371a72e)# <i>Web3 projects overview</i>
+<i>Web3 projects overview</i>
 
 Here are my past web3 projects
 As you can see here, I have participated in several DeFi, NFT projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms.
