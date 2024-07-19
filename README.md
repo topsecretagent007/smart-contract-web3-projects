@@ -42,5 +42,5 @@ And you can see my web/app design.
 <div>- Token swap</div>
 <div>- Canvas</div>
 
-- Live: <a href="https://viking-landing-test.vercel.app/">Forked pump.fun</a>
+- Live: <a href="https://viking-landing-test.vercel.app/">viking-landing-test.vercel.app</a>
 - Frontend repo: <a href="https://github.com/lendon1114/viking-fe">Viking-front-end</a>
