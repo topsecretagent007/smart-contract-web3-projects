@@ -2,7 +2,8 @@
 
 Here are my past projects
 As you can see here, I have participated in several DeFi, NFT projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms, NFT Drops platfroms.
-<div>And you can see my web/app design.</div>
+<br />
+And you can see my web/app design.
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>You can send DM to check POW.</i></div>
 
