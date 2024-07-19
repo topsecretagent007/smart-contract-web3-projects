@@ -30,5 +30,16 @@ And you can see my web/app design.
 <div>- Never miss an NFT Drop again. </div>
 <div>- List your NFT Project. </div>
 
-- Frontend repo: <a href="https://github.com/lendon1114/Niftydrops">delta-neutral-frontend</a>
-- Backend repo: <a href="https://github.com/lendon1114/NiftyDrops-BE">delta-neutral-backend</a>
+- Frontend repo: <a href="https://github.com/lendon1114/Niftydrops">NiftyDrops-front-end</a>
+- Backend repo: <a href="https://github.com/lendon1114/NiftyDrops-BE">NiftyDrops-back-end</a>
+
+
+<h3><u><strong><i>VIKING | Aggregator DEX</i></strong></u> &nbsp;(Front-End)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/34febfb5-6c4c-447e-95f0-1124252e0d38">
+<div>Trade on Viking with all tokens listed on Bitcoin DEXs.</div>
+<div>- Token swap</div>
+<div>- Canvas</div>
+
+- Frontend repo: <a href="https://github.com/lendon1114/viking-fe">Viking-front-end</a>
