@@ -20,7 +20,7 @@ And you can see my web/app figma design.
 - Backend repo: <a href="https://github.com/lendon1114/pump.fun-backend">pumpdotfun-backend</a>
 - Smart contract repo: <a href="https://github.com/lendon1114/ pump.fun-contract ">pumpdotfun-smart-contract</a>
 
-<h3><u><strong><i>NiftyDrops(on progress)</i></strong></u> &nbsp;(NFT Drop)</h3>
+<h3><u><strong><i>NiftyDrops</i></strong></u> &nbsp;(NFT Drop)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/39aa2a4f-2377-49ee-b188-d38a96dff106">
@@ -46,7 +46,7 @@ And you can see my web/app figma design.
 - Frontend repo: <a href="https://github.com/lendon1114/viking-fe">Viking-front-end</a>
 
 
-<h3><u><strong><i>Unify(on progress)</i></strong></u> &nbsp;(Development  and Design)</h3>
+<h3><u><strong><i>Unify</i></strong></u> &nbsp;(Development  and Design)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/cfafc3e7-9857-4a20-8c06-67591add8d67">
