@@ -103,11 +103,11 @@ And you can see my web/app figma design.
 <div>- SupDucksPaint Back-end : Node.js </div>
 <div>- SupDucksPaint Smart Contract : ERC-721, solidity </div>
 
-- Video : <a href='https://streamable.com/gkbcqv'>Video</a>
-- Live: <a href="https://painter.supducks.com/">Forked pump.fun</a>
-- Frontend repo: <a href="https://github.com/lendon1114/pump.fun-frontend">pumpdotfun-frontend</a>
-- Backend repo: <a href="https://github.com/lendon1114/pump.fun-backend">pumpdotfun-backend</a>
-- Smart contract repo: <a href="https://github.com/lendon1114/ pump.fun-contract ">pumpdotfun-smart-contract</a>
+- Video : <a href='https://youtu.be/jFm16M9f59I'>Video</a>
+- Live: <a href="https://painter.supducks.com/">SupDucksPaint</a>
+- Frontend repo: <a href="https://github.com/topsecretagent007/superduck-painter">SupDucksPaint-frontend</a>
+- Backend repo: <a href="https://github.com/topsecretagent007/supducks_painter-backend">SupDucksPaint-backend</a>
+- Smart contract repo: <a href="https://github.com/topsecretagent007/supducks_painter-contract">SupDucksPaint-smart-contract</a>
 
 <br />
 
