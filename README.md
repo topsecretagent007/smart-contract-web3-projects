@@ -7,6 +7,19 @@ And you can see my web/app figma design.
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>You can send DM to check POW.</i></div>
 
+<h3><u><strong><i>Moonime Design and Development (on progress)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/097ad510-52fe-49e5-b0ae-e55d53f5a25a">
+<div>Moonime is a site for minting NFTs using multiple chains.</div>
+<div>-Moonime design : Figma</div>
+
+- Live: <a href="https://www.figma.com/design/suTKqrf9NrLV3NlQpRqFPF/moonime-new-design?node-id=0-1&node-type=CANVAS&t=vrnpWNGvFd1X8Q9k-0">Moonime design (Figma)</a>
+
+<br />
+<br />
+
+
 <h3><u><strong><i>Forking pump.fun</i></strong></u></h3>
 <hr />
 
@@ -62,18 +75,6 @@ And you can see my web/app figma design.
 - Live: <a href="https://www.figma.com/file/BkmSKtQyM8haOHRqCduFzC/Uni-fy-Design?type=design&mode=design&t=wTROY5D7ySqFyliG-0">Uni fy design (Figma)</a>
 
 <br />
-<br />
-<br />
-
-<h3><u><strong><i>Moonime Design</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/d1dae2ac-9e58-4083-8eda-fb5c5d087206">
-<div>Moonime is a site for minting NFTs using multiple chains.</div>
-<div>-Moonime design : Figma</div>
-
-- Live: <a href="https://www.figma.com/design/Ct6OW3VQosDRD8wJ0mF0dn/Moonime?node-id=0-1&t=OFhgYbR1Fj3xPatR-0">Moonime design (Figma)</a>
-
 <br />
 <br />
 
