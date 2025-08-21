@@ -7,23 +7,11 @@ And you can see my web/app figma design.
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>You can send DM to check POW.</i></div>
 
-<h3><u><strong><i>Moonime Design and Development (on progress)</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/097ad510-52fe-49e5-b0ae-e55d53f5a25a">
-<div>Moonime is a site for minting NFTs using multiple chains.</div>
-<div>-Moonime design : Figma</div>
-
-- Live: <a href="https://www.figma.com/design/suTKqrf9NrLV3NlQpRqFPF/moonime-new-design?node-id=0-1&node-type=CANVAS&t=vrnpWNGvFd1X8Q9k-0">Moonime design (Figma)</a>
-
-<br />
-<br />
-
 
 <h3><u><strong><i>Forking pump.fun</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/c7d1da2d-a09f-4e25-a957-befc0ed05ff3">
+<img align="right" width="300px" alt="pumpfun_01" src="https://github.com/user-attachments/assets/782805c4-22bf-4062-a17d-0fa0cd9b67fd" />
 <div>Another pump.fun(https://pump.fun) built by me.</div>
 <div>- Built frontend/backend for spl token create, market create.</div>
 <div>- Built smart contract for bonding curve, make pool on raydium.</div>
@@ -32,6 +20,107 @@ And you can see my web/app figma design.
 - Frontend repo: <a href="https://github.com/lendon1114/pump.fun-frontend">pumpdotfun-frontend</a>
 - Backend repo: <a href="https://github.com/lendon1114/pump.fun-backend">pumpdotfun-backend</a>
 - Smart contract repo: <a href="https://github.com/lendon1114/ pump.fun-contract ">pumpdotfun-smart-contract</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>Staking Game (SOL)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/1c7ab947-70cd-4948-bcfc-6dad5cf26ee6">
+<div>Miner Staking game.</div>
+<div>- Skills : Next.js, Tailwind CSS, TypeScript, Smart Contract, Node.js, Mongo DB, Solana Web3</div>
+
+- Live: <a href="https://spky-mining-game.vercel.app/">GHOSTY.CASH Game</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>Rug the Clock (Game)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" alt="lastsender" src="https://github.com/user-attachments/assets/fdde879c-8b19-4e9c-945a-5c30d32bb954" />
+<div>The game is mobile-friendly. You just need a Solana wallet like Phantom or Backpack that supports in-browser dApps.</div>
+<br />
+<div>Next.js, Tailwind CSS, TypeScript, Smart Contract, Node.js, Mongo DB, Solana Web3</div>
+
+- Live: <a href="https://https://lastsender.pro/">Rug The Clock</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>Wild ZOO (Token Presale)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/03ad6d27-f3bd-4993-b7fd-efed46b06e44">
+<div>Play, Earn, and Evolve in the Wildest Web3 Zoo. Raise virtual pets, unlock rare species, and earn rewards through gameplay. Join a new frontier where fun meets the blockchain.</div>
+<br />
+<div>Next.js, Tailwind CSS, TypeScript, Smart Contract, Node.js, Mongo DB, Solana Web3</div>
+
+- Live: <a href="https://wild-go-presale-pumpfun-frontend.vercel.app/">Wild Zoo</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>SUIFUN (Pumpfun - SUI)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/1e63f89a-030f-4006-9f29-461f45ff8106">
+<div>Sui Fun allow anyone launch their own tokens on the Sui blockchain.</div>
+<div>All tokens on Sui Fun are fair-launch.</div>
+<div>Everyone has the same chance to buy or sell the moment the token goes live.</div>
+
+<br />
+<div>Next.js,  Tailwind CSS, TypeScript, Smart Contract, Node.js, Move, Mongo DB</div>
+
+- Live: <a href="https://https://suifun.io/">SUIFUN</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>Closed Digital (Pumpfun - SOL)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/acf07001-cb91-4cb3-890e-1b3f258cd03b">
+<div>Snoop Dogg is Launching A Token This Week.</div>
+<br />
+<div>Next.js, Tailwind CSS, TypeScript, Smart Contract, Node.js, Mongo DB, Solana Web3</div>
+
+- Live: <a href="https://closed-pumpfun-frontend-private.vercel.app/">Closed Digital</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>DRVX Token Swap(SOL)</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/5804dcbb-c674-4a84-b9da-e4033af90c2b">
+<div>Welcome to DeriveX Crypto Venture, the next evolution in cryptocurrency investment platforms.</div>
+<div>We offer a groundbreaking approach to hedge fund investments by introducing DRVX, a unique SPL token that represents your position in our hedge fund.</div>
+<div>Our mission is to empower investors with transparent, secure, and efficient ways to grow their wealth in the cryptocurrency market.</div>
+
+<br />
+<div>Next.js, Tailwind CSS, TypeScript, Smart Contract, Node.js, Mongo DB, Solana Web3, DRVX</div>
+
+- Live: <a href="https://solana-token-swap-dun.vercel.app/">DRVX Swap</a>
+
+<br />
+<br />
+
+<h3><u><strong><i>Taproot Bitches</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/ae55babe-6b91-4472-944d-6d227794f1db">
+<div>Welcome to the Taproot Bitches project! This project allows you to extract and customize your own portrait for a personalized, unique PFP (Profile Picture) using Bitcoin Ordinal NFTs.</div>
+<div>Enjoy a fun and interactive experience by connecting your Bitcoin wallet, selecting your NFTs, and customizing them with various features. Let your creativity shine in the Bitcoin Ordinal space!</div>
+
+<br />
+<div>Next.js, Tailwind CSS, TypeScript, Ordinal NFTs, Canvas, Mongo DB, Bitcoin Web3</div>
+
+- Live: <a href="https://pfp.taprootbitches.com/">Photo Booth</a>
+
+<br />
+<br />
 
 <h3><u><strong><i>NiftyDrops</i></strong></u> &nbsp;(NFT Drop)</h3>
 <hr />
@@ -58,7 +147,6 @@ And you can see my web/app figma design.
 - Live: <a href="https://viking-landing-test.vercel.app/">viking-landing-test.vercel.app</a>
 - Frontend repo: <a href="https://github.com/lendon1114/viking-fe">Viking-front-end</a>
 
-
 <h3><u><strong><i>Unify</i></strong></u> &nbsp;(Development  and Design)</h3>
 <hr />
 
@@ -73,22 +161,6 @@ And you can see my web/app figma design.
 <div>Uni-Fy design : Figma</div>
 
 - Live: <a href="https://www.figma.com/file/BkmSKtQyM8haOHRqCduFzC/Uni-fy-Design?type=design&mode=design&t=wTROY5D7ySqFyliG-0">Uni fy design (Figma)</a>
-
-<br />
-<br />
-<br />
-
-<h3><u><strong><i>Galactic Kingdom Design</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/39666e00-280d-4f77-ad2a-b8b1b2be822f">
-<div>This is an NFT gameimitating One Pieceand reflects war in space.</div>
-<div>It is a war game between various races such as Human, Lunarian, Giant, Fishman, and Mink.</div>
-<div>This is the sitesFigma design.</div>
-
-<div>- Galactic Kingdom Design : Figma< </div>
-
-- Live: <a href="https://www.figma.com/proto/X9XQGknywrXeu3mH0SU6mY/Galactic-Kingdom-design?type=design&node-id=170-2284&t=lDLt2kuom9u9c2Fs-0&scaling=min-zoom&page-id=44%3A123">Galactic Kingdom Design</a>
 
 <br />
 
@@ -110,20 +182,6 @@ And you can see my web/app figma design.
 - Backend repo: <a href="https://github.com/topsecretagent007/supducks_painter-backend">SupDucksPaint-backend</a>
 - Smart contract repo: <a href="https://github.com/topsecretagent007/supducks_painter-contract">SupDucksPaint-smart-contract</a>
 
-<br />
-
-<h3><u><strong><i>Poonts Design</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e5ab4500-abb8-4e81-a29f-a396b788e8b8">
-<div>This is a staking site forPoonts NFT.</div>
-<div>Made in a format similar toFaceBook.</div>
-
-<div>- Poonts Design : Figma< </div>
-  
-- Live: <a href="https://www.figma.com/file/hKkMCxN6cZ7Buw4OP8rO91/Poonts-Staking?type=design&mode=design&t=HfyiWtDshx11SD95-0">Poonts Design</a>
-
-<br />
 <br />
 
 <h3><u><strong><i>LOGARITHM GAMES Mint</i></strong></u> &nbsp;(NFT Mint : BNB)</h3>
